@@ -1,3 +1,3 @@
-module github.com/redmicelles/goBMICalculator.git
+module github.com/redmicelles/goBMICalculator
 
-go 1.13
+go 1.17
